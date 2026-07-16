@@ -126,7 +126,7 @@ useEffect(() => {
             <>
               <Link href="/login"><button className="">Login</button></Link>
 
-              <Link href="/register">
+              <Link href="/signup">
                 <button className="bg-[#1cb098] text-white rounded-full px-6">
                  Apply now 
                 </button>
