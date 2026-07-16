@@ -124,11 +124,11 @@ useEffect(() => {
 
           {!user ? (
             <>
-              <Link href="/login"><button className="text-white">Login</button></Link>
+              <Link href="/login"><button className="">Login</button></Link>
 
               <Link href="/register">
-                <button className="bg-[#132573] text-white rounded-full px-6">
-                 Join Us
+                <button className="bg-[#1cb098] text-white rounded-full px-6">
+                 Apply now 
                 </button>
               </Link>
             </>

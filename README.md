@@ -1,4 +1,4 @@
-# 🛍️ NextMart
+# 🛍️ escul
 
 A modern, beginner-friendly e-commerce application built with **Next.js 15**, **TypeScript**, **MongoDB**, and **Next.js API Routes**. This project demonstrates how to build a full-stack application using the App Router, secure authentication, protected routes, and CRUD operations while following a clean and scalable architecture.
 
